@@ -1,4 +1,4 @@
-package io.github.lunasaw.zlm;
+package io.github.lunasaw.netty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
