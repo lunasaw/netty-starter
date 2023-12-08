@@ -1,6 +1,7 @@
 package io.github.lunasaw.netty;
 
 
+import io.github.lunasaw.netty.server.Application;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
